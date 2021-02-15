@@ -104,7 +104,6 @@ Using historical data on predicted score differentials using YUSAG coefficients 
 # Acknowledgements
 I have to thank Luke Benz again for publishing the work he did during his time in Yale. It has served as such a helpful guide, and my management of these files would be impossible without his initial work.
 
-I hope to upload all of my code and data to GitHub soon so people can evaluate the model for themselves.
 
 
 
