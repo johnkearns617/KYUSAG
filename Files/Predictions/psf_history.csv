@@ -1,0 +1,93 @@
+"date","home","away","psf","auto_bid_sf"
+2021-01-09,"Col. of Charleston","Drexel",NA,10.4
+2021-01-10,"Col. of Charleston","Drexel",NA,11.2
+2021-01-16,"Col. of Charleston","Northeastern",NA,14.8
+2021-01-17,"Col. of Charleston","Northeastern",NA,20.8
+2021-01-02,"Delaware","Col. of Charleston",NA,12
+2021-01-03,"Delaware","Col. of Charleston",NA,16.8
+2021-01-16,"Delaware","Hofstra",NA,18.8
+2021-01-17,"Delaware","Hofstra",NA,19.2
+2021-01-02,"Drexel","UNCW",NA,13.2
+2021-01-03,"Drexel","UNCW",NA,15.6
+2021-01-16,"Drexel","William & Mary",NA,22.8
+2021-01-17,"Drexel","William & Mary",NA,18.8
+2021-01-09,"Elon","Towson",NA,9.6
+2021-01-10,"Elon","Towson",NA,15.2
+2021-01-23,"Elon","Drexel",NA,15.2
+2021-01-24,"Elon","Drexel",NA,16.8
+2021-01-02,"Hofstra","William & Mary",NA,14.4
+2021-01-03,"Hofstra","William & Mary",NA,12.4
+2021-01-07,"Hofstra","Northeastern",NA,15.2
+2021-01-23,"Hofstra","Towson",NA,12.8
+2021-01-24,"Hofstra","Towson",NA,18.8
+2021-01-04,"James Madison","Towson",NA,17.2
+2021-01-16,"James Madison","Elon",NA,9.2
+2021-01-17,"James Madison","Elon",NA,14
+2021-01-02,"Northeastern","Elon",NA,8.8
+2021-01-03,"Northeastern","Elon",NA,11.6
+2021-01-09,"Northeastern","Hofstra",NA,13.2
+2021-01-23,"Northeastern","James Madison",NA,8.8
+2021-01-24,"Northeastern","James Madison",NA,16.8
+2021-01-02,"Towson","James Madison",NA,17.2
+2021-01-16,"Towson","UNCW",NA,9.6
+2021-01-17,"Towson","UNCW",NA,24.4
+2021-01-09,"UNCW","James Madison",NA,20.8
+2021-01-10,"UNCW","James Madison",NA,14.4
+2021-01-23,"UNCW","Delaware",NA,24.8
+2021-01-24,"UNCW","Delaware",NA,12.4
+2021-01-09,"William & Mary","Delaware",NA,14.8
+2021-01-10,"William & Mary","Delaware",NA,15.6
+2021-01-23,"William & Mary","Col. of Charleston",NA,12.8
+2021-01-24,"William & Mary","Col. of Charleston",NA,10.8
+2021-02-06,"Col. of Charleston","Towson",NA,7.2
+2021-02-07,"Col. of Charleston","Towson",NA,16.8
+2021-02-13,"Col. of Charleston","Elon",NA,8.8
+2021-02-14,"Col. of Charleston","Elon",NA,8.4
+2021-02-27,"Col. of Charleston","UNCW",NA,12
+2021-01-30,"Delaware","Elon",NA,8
+2021-01-31,"Delaware","Elon",NA,7.6
+2021-02-13,"Delaware","Drexel",NA,18.4
+2021-02-20,"Delaware","James Madison",NA,13.6
+2021-02-21,"Delaware","James Madison",NA,15.2
+2021-01-30,"Drexel","Northeastern",NA,9.19999999999999
+2021-01-31,"Drexel","Northeastern",NA,19.6
+2021-02-11,"Drexel","Delaware",NA,13.6
+2021-02-20,"Drexel","Towson",NA,10
+2021-02-21,"Drexel","Towson",NA,10.4
+2021-02-06,"Elon","UNCW",NA,19.6
+2021-02-07,"Elon","UNCW",NA,8.8
+2021-02-18,"Elon","William & Mary",NA,12.4
+2021-02-27,"Elon","Hofstra",NA,10
+2021-02-28,"Elon","Hofstra",NA,8
+2021-02-06,"Hofstra","Drexel",NA,23.6
+2021-02-07,"Hofstra","Drexel",NA,13.6
+2021-02-20,"Hofstra","Col. of Charleston",NA,15.6
+2021-02-21,"Hofstra","Col. of Charleston",NA,11.6
+2021-01-30,"James Madison","Col. of Charleston",NA,13.6
+2021-01-31,"James Madison","Drexel",NA,8.8
+2021-01-31,"James Madison","Col. of Charleston",NA,9.2
+2021-02-13,"James Madison","Hofstra",NA,13.6
+2021-02-14,"James Madison","Hofstra",NA,10
+2021-02-27,"James Madison","Drexel",NA,21.6
+2021-02-28,"James Madison","Drexel",NA,19.6
+2021-02-06,"Northeastern","Delaware",NA,10
+2021-02-07,"Northeastern","Delaware",NA,14.8
+2021-02-20,"Northeastern","UNCW",NA,10
+2021-02-21,"Northeastern","UNCW",NA,14
+2021-01-30,"Towson","William & Mary",NA,13.2
+2021-01-31,"Towson","William & Mary",NA,15.2
+2021-02-13,"Towson","Northeastern",NA,13.6
+2021-02-14,"Towson","Northeastern",NA,13.2
+2021-02-27,"Towson","Delaware",NA,9.2
+2021-02-28,"Towson","Delaware",NA,12.8
+2021-01-30,"UNCW","Hofstra",NA,12.4
+2021-01-31,"UNCW","Hofstra",NA,21.6
+2021-02-09,"UNCW","James Madison",NA,6
+2021-02-13,"UNCW","William & Mary",NA,18
+2021-02-14,"UNCW","William & Mary",NA,13.6
+2021-02-25,"UNCW","Col. of Charleston",NA,15.6
+2021-02-06,"William & Mary","James Madison",NA,18.8
+2021-02-07,"William & Mary","James Madison",NA,10.8
+2021-02-20,"William & Mary","Elon",NA,8.8
+2021-02-27,"William & Mary","Northeastern",NA,15.6
+2021-02-28,"William & Mary","Northeastern",NA,15.2
