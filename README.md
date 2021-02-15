@@ -1,15 +1,4 @@
 # KYUSAG
----
-title: "NBN Methodology"
-author: "John Kearns"
-date: "11/16/2020"
-output: word_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## No Bid Nation Model Methodology
 
 One of the most disappointing aspects of following a mid-major team, especially teams in conferences like the CAA, is the lack of in-depth statistical coverage and analysis. There has been a stats explosion for the top teams in the NCAA; player-tracking technology and play-by-play data is changing the way athletics departments and fans are engaging with players. Meanwhile, the open-source score-keeping log at William & Mary’s own Kaplan Arena failed to work for half of the Tribe’s home games. The CAA may get mentioned in a few tweets by the more famous college basketball statisticians, with most coming only at the end of the season as the conference tournament begins.
